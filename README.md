@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm harsh negi</h1>
-<h3 align="center">physician clinical pharmacology, analytics, modeling and simulation, AI ,</h3>
+<h3 align="center">physician clinical pharmacology, analytics, modeling and simulation, AI , cdisc </h3>
 
 - 🔭 I’m currently working on [containers](pbpk modeling)
 
